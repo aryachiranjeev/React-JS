@@ -7,7 +7,7 @@
 # 3. ls
 # 4. git status
 # 5. git add REACT
-# 6. git commit -m 'react-js'
+# 6. git commit -m 'react-js' / git commit -m "message to commit"
 # 7. git status
 # 8. git log
 # 9. git status
